@@ -1,5 +1,3 @@
-import gym
-import gym_chess
 import random
 
 env = gym.make("ChessVsRandomBot-v0")
